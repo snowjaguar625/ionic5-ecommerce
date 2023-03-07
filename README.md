@@ -14,7 +14,7 @@
 10. Order Confirm Page
 11. Custom Side Menu
 
-Complete ecommerce app UI using Ionic 5
+Complete ecommerce app UI using Ionic 5.
 
 ### Preview
 
